@@ -7,4 +7,3 @@ if (answer > 12) {
   let message = `Hi! Thanks for visiting our site!`
   alert(message)
 }
-
